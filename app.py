@@ -62,8 +62,8 @@ fig.update_layout(xaxis_title='Date', yaxis_title='Predicted Sales Count')
 st.plotly_chart(fig)
 
 # Display evaluation metrics
-mae = 10.5  # Replace with actual calculation
-rmse = 15.2  # Replace with actual calculation
+mae =  34677.051688525935  
+rmse =156.2972746121161 
 
 st.markdown(f"""
     <div style="background-color: #f9f9f9; padding: 10px; border-radius: 10px; margin-top: 20px;">
